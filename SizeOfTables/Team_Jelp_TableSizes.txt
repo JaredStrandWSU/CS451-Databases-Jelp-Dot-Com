@@ -1,0 +1,11 @@
+businesscategories: 	"33619"
+businesses:		"11481"
+categories:		"226"
+checkins:		"67407"
+friends:		"1052706"
+hours:			"55502"
+reviews:		"416479"
+users:			"192999"
+
+Jared Strand
+Justin Whicker
