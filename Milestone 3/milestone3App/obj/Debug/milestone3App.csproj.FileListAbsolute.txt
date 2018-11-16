@@ -1,0 +1,27 @@
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone3App.csprojResolveAssemblyReference.cache
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone2App.Properties.Resources.resources
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone3App.csproj.GenerateResource.Cache
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone3App.csproj.CoreCompileInputs.cache
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone2App.exe
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone2App.pdb
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\milestone2App.exe.config
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\milestone2App.exe
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\milestone2App.pdb
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\Npgsql.dll
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\Npgsql.xml
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Justin\git\school\spring2018\cpts451\Term Project\Milestone 3\milestone3App\obj\Debug\milestone3App.YelpApp.resources
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\milestone2App.exe.config
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\milestone2App.exe
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\milestone2App.pdb
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\Npgsql.dll
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\Npgsql.xml
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\obj\Debug\milestone3App.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\obj\Debug\milestone3App.YelpApp.resources
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\obj\Debug\milestone2App.Properties.Resources.resources
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\obj\Debug\milestone3App.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\obj\Debug\milestone2App.exe
+C:\Users\Jared\Documents\School\CptS_451\Milestone 3\milestone3App\obj\Debug\milestone2App.pdb
